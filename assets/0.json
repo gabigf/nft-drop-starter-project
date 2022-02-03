@@ -1,0 +1,19 @@
+{
+  "name": "First Draft Do-nut",
+  "symbol": "",
+  "image": "0.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "C3EVnp4mwH6U8LPJ7RYCcfbeYxuFFWmVrbLBNpMgKHiP",
+        "share": 100
+      }
+    ]
+  }
+}

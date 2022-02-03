@@ -1,0 +1,19 @@
+{
+  "name": "Second draft Do-nut",
+  "symbol": "",
+  "image": "1.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "C3EVnp4mwH6U8LPJ7RYCcfbeYxuFFWmVrbLBNpMgKHiP",
+        "share": 100
+      }
+    ]
+  }
+}
